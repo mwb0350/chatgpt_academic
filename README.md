@@ -4,6 +4,9 @@
 
 If you like this project, please give it a Star. If you've come up with more useful academic shortcuts or functional plugins, feel free to open an issue or pull request. We also have a [README in English](img/README_EN.md) translated by this project itself.
 
+# chatgpt专题
+https://www.dgrt.cn/chatgpt.html
+
 > **Note**
 >
 > 1.请注意只有**红颜色**标识的函数插件（按钮）才支持读取文件，部分插件位于插件区的**下拉菜单**中。另外我们以**最高优先级**欢迎和处理任何新插件的PR！
